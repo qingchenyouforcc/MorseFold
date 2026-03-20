@@ -269,11 +269,11 @@ def main() -> None:
     paragraph_samples = load_dataset(PARAGRAPH_DATASET_PATH)
     long_text_samples = load_dataset(LONG_TEXT_DATASET_PATH)
     group_limits = {
-        "single_word": 1000,
-        "multi_word_phrase": 1000,
-        "number_heavy": 1000,
-        "punctuation_heavy": 1000,
-        "mixed_digits_punctuation": 1000,
+        "single_word": 5000,
+        "multi_word_phrase": 5000,
+        "number_heavy": 5000,
+        "punctuation_heavy": 5000,
+        "mixed_digits_punctuation": 5000,
         "long_sentence_gt20_words": 1000,
         "paragraph_samples": 200,
     }

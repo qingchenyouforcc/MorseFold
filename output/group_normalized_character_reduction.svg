@@ -5,37 +5,37 @@
 <line x1="90" y1="550.00" x2="1160" y2="550.00" stroke="#d9e2ec" stroke-width="1"/>
 <text x="78" y="555.00" text-anchor="end" font-size="14" fill="#486581">0</text>
 <line x1="90" y1="456.00" x2="1160" y2="456.00" stroke="#d9e2ec" stroke-width="1"/>
-<text x="78" y="461.00" text-anchor="end" font-size="14" fill="#486581">10026</text>
+<text x="78" y="461.00" text-anchor="end" font-size="14" fill="#486581">14890</text>
 <line x1="90" y1="362.00" x2="1160" y2="362.00" stroke="#d9e2ec" stroke-width="1"/>
-<text x="78" y="367.00" text-anchor="end" font-size="14" fill="#486581">20053</text>
+<text x="78" y="367.00" text-anchor="end" font-size="14" fill="#486581">29780</text>
 <line x1="90" y1="268.00" x2="1160" y2="268.00" stroke="#d9e2ec" stroke-width="1"/>
-<text x="78" y="273.00" text-anchor="end" font-size="14" fill="#486581">30079</text>
+<text x="78" y="273.00" text-anchor="end" font-size="14" fill="#486581">44671</text>
 <line x1="90" y1="174.00" x2="1160" y2="174.00" stroke="#d9e2ec" stroke-width="1"/>
-<text x="78" y="179.00" text-anchor="end" font-size="14" fill="#486581">40106</text>
+<text x="78" y="179.00" text-anchor="end" font-size="14" fill="#486581">59561</text>
 <line x1="90" y1="80.00" x2="1160" y2="80.00" stroke="#d9e2ec" stroke-width="1"/>
-<text x="78" y="85.00" text-anchor="end" font-size="14" fill="#486581">50132</text>
-<rect x="113.41" y="535.12" width="86.94" height="14.88" fill="#c46a2d" rx="4"/>
-<text x="156.88" y="527.12" text-anchor="middle" font-size="13" fill="#102a43">1587</text>
+<text x="78" y="85.00" text-anchor="end" font-size="14" fill="#486581">74451</text>
+<rect x="113.41" y="333.66" width="86.94" height="216.34" fill="#c46a2d" rx="4"/>
+<text x="156.88" y="325.66" text-anchor="middle" font-size="13" fill="#102a43">34269</text>
 <text x="156.88" y="572.00" text-anchor="end" transform="rotate(-28 156.88,572.00)" font-size="13" fill="#243b53">single_word</text>
-<rect x="247.16" y="446.08" width="86.94" height="103.92" fill="#c46a2d" rx="4"/>
-<text x="290.62" y="438.08" text-anchor="middle" font-size="13" fill="#102a43">11084</text>
+<rect x="247.16" y="81.55" width="86.94" height="468.45" fill="#c46a2d" rx="4"/>
+<text x="290.62" y="73.55" text-anchor="middle" font-size="13" fill="#102a43">74205</text>
 <text x="290.62" y="572.00" text-anchor="end" transform="rotate(-28 290.62,572.00)" font-size="13" fill="#243b53">multi_word_phrase</text>
-<rect x="380.91" y="431.73" width="86.94" height="118.27" fill="#c46a2d" rx="4"/>
-<text x="424.38" y="423.73" text-anchor="middle" font-size="13" fill="#102a43">12615</text>
+<rect x="380.91" y="66.84" width="86.94" height="483.16" fill="#c46a2d" rx="4"/>
+<text x="424.38" y="58.84" text-anchor="middle" font-size="13" fill="#102a43">76535</text>
 <text x="424.38" y="572.00" text-anchor="end" transform="rotate(-28 424.38,572.00)" font-size="13" fill="#243b53">number_heavy</text>
-<rect x="514.66" y="431.29" width="86.94" height="118.71" fill="#c46a2d" rx="4"/>
-<text x="558.12" y="423.29" text-anchor="middle" font-size="13" fill="#102a43">12662</text>
+<rect x="514.66" y="66.08" width="86.94" height="483.92" fill="#c46a2d" rx="4"/>
+<text x="558.12" y="58.08" text-anchor="middle" font-size="13" fill="#102a43">76656</text>
 <text x="558.12" y="572.00" text-anchor="end" transform="rotate(-28 558.12,572.00)" font-size="13" fill="#243b53">punctuation_heavy</text>
-<rect x="648.41" y="431.44" width="86.94" height="118.56" fill="#c46a2d" rx="4"/>
-<text x="691.88" y="423.44" text-anchor="middle" font-size="13" fill="#102a43">12646</text>
+<rect x="648.41" y="65.99" width="86.94" height="484.01" fill="#c46a2d" rx="4"/>
+<text x="691.88" y="57.99" text-anchor="middle" font-size="13" fill="#102a43">76671</text>
 <text x="691.88" y="572.00" text-anchor="end" transform="rotate(-28 691.88,572.00)" font-size="13" fill="#243b53">mixed_digits_punctuation</text>
-<rect x="782.16" y="65.12" width="86.94" height="484.88" fill="#c46a2d" rx="4"/>
-<text x="825.62" y="57.12" text-anchor="middle" font-size="13" fill="#102a43">51719</text>
+<rect x="782.16" y="223.50" width="86.94" height="326.50" fill="#c46a2d" rx="4"/>
+<text x="825.62" y="215.50" text-anchor="middle" font-size="13" fill="#102a43">51719</text>
 <text x="825.62" y="572.00" text-anchor="end" transform="rotate(-28 825.62,572.00)" font-size="13" fill="#243b53">long_sentence_gt20_words</text>
-<rect x="915.91" y="347.80" width="86.94" height="202.20" fill="#c46a2d" rx="4"/>
-<text x="959.38" y="339.80" text-anchor="middle" font-size="13" fill="#102a43">21567</text>
+<rect x="915.91" y="413.85" width="86.94" height="136.15" fill="#c46a2d" rx="4"/>
+<text x="959.38" y="405.85" text-anchor="middle" font-size="13" fill="#102a43">21567</text>
 <text x="959.38" y="572.00" text-anchor="end" transform="rotate(-28 959.38,572.00)" font-size="13" fill="#243b53">paragraph_samples</text>
-<rect x="1049.66" y="529.19" width="86.94" height="20.81" fill="#c46a2d" rx="4"/>
-<text x="1093.12" y="521.19" text-anchor="middle" font-size="13" fill="#102a43">2220</text>
+<rect x="1049.66" y="535.99" width="86.94" height="14.01" fill="#c46a2d" rx="4"/>
+<text x="1093.12" y="527.99" text-anchor="middle" font-size="13" fill="#102a43">2220</text>
 <text x="1093.12" y="572.00" text-anchor="end" transform="rotate(-28 1093.12,572.00)" font-size="13" fill="#243b53">long_text_gt200_words</text>
 </svg>
