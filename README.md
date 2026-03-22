@@ -4,7 +4,7 @@
 # Morse Code Simplify
 
 **Please note, this is an experimental algorithm. Not the final version of the algorithm.**
-**This algorithm is used for experimental AI iterative testing, and the repository is located at [MorseFold-AI](https://github.com/SwarmGKA/MorseFold-AI)**
+**This algorithm is used for AI iterative testing, and the repository is located at [MorseFold-AI](https://github.com/SwarmGKA/MorseFold-AI)**
 
 A reversible lightweight compression experiment for Morse code sequences: text is first converted into standard Morse code, then transformed into a shorter simplified representation using consecutive equal-length grouping, symbol bias, and alternating-pattern detection, while still supporting full decoding back to the original text.
 
